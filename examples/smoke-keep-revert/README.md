@@ -2,6 +2,8 @@
 
 Smallest honest example of the framework.
 
+![Smoke Keep/Revert Flow](./visual.svg)
+
 ## Files
 
 ```text
