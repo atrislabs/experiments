@@ -1,5 +1,7 @@
 # experiments
 
+[![GitHub stars](https://img.shields.io/github/stars/atrislabs/experiments?style=social)](https://github.com/atrislabs/experiments/stargazers)
+
 Karpathy-style experiment framework for Atris.
 
 This repo defines the schema, validation rules, and benchmark harness for self-improvement loops.
