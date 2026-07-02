@@ -115,3 +115,7 @@ python validate.py examples
 python benchmark_validate.py
 python benchmark_runtime.py
 ```
+
+## Atris ecosystem
+
+Spec for `atris/experiments/` packs in product repos. See [atris](https://github.com/atrislabs/atris) · [autoresearch skill](https://github.com/atrislabs/atris/tree/master/atris/skills/autoresearch)
